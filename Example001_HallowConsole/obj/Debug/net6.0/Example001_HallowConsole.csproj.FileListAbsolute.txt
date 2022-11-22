@@ -1,0 +1,15 @@
+C:\Users\79132\Desktop\Examples\Example001_HallowConsole\bin\Debug\net6.0\Example001_HallowConsole.exe
+C:\Users\79132\Desktop\Examples\Example001_HallowConsole\bin\Debug\net6.0\Example001_HallowConsole.deps.json
+C:\Users\79132\Desktop\Examples\Example001_HallowConsole\bin\Debug\net6.0\Example001_HallowConsole.runtimeconfig.json
+C:\Users\79132\Desktop\Examples\Example001_HallowConsole\bin\Debug\net6.0\Example001_HallowConsole.dll
+C:\Users\79132\Desktop\Examples\Example001_HallowConsole\bin\Debug\net6.0\Example001_HallowConsole.pdb
+C:\Users\79132\Desktop\Examples\Example001_HallowConsole\obj\Debug\net6.0\Example001_HallowConsole.csproj.AssemblyReference.cache
+C:\Users\79132\Desktop\Examples\Example001_HallowConsole\obj\Debug\net6.0\Example001_HallowConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79132\Desktop\Examples\Example001_HallowConsole\obj\Debug\net6.0\Example001_HallowConsole.AssemblyInfoInputs.cache
+C:\Users\79132\Desktop\Examples\Example001_HallowConsole\obj\Debug\net6.0\Example001_HallowConsole.AssemblyInfo.cs
+C:\Users\79132\Desktop\Examples\Example001_HallowConsole\obj\Debug\net6.0\Example001_HallowConsole.csproj.CoreCompileInputs.cache
+C:\Users\79132\Desktop\Examples\Example001_HallowConsole\obj\Debug\net6.0\Example001_HallowConsole.dll
+C:\Users\79132\Desktop\Examples\Example001_HallowConsole\obj\Debug\net6.0\refint\Example001_HallowConsole.dll
+C:\Users\79132\Desktop\Examples\Example001_HallowConsole\obj\Debug\net6.0\Example001_HallowConsole.pdb
+C:\Users\79132\Desktop\Examples\Example001_HallowConsole\obj\Debug\net6.0\Example001_HallowConsole.genruntimeconfig.cache
+C:\Users\79132\Desktop\Examples\Example001_HallowConsole\obj\Debug\net6.0\ref\Example001_HallowConsole.dll
